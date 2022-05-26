@@ -1,0 +1,1 @@
+# VMware_vCenter_Collecting_General_Information
